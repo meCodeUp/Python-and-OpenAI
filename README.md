@@ -3,7 +3,8 @@
 
 
 ## Install Python ##
-The first step is to install Python on your computer. You can download Python from the official website (https://www.python.org/downloads/). Choose the latest version, and select the appropriate installation file for your operating system.
+The first step is to install Python on your computer. You can [download Python from the official website](https://www.python.org/downloads). Choose the latest version, and select the appropriate installation file for your operating system.
+
 
 ## Install OpenAI  ##
 Next, you will need to install the OpenAI library. You can do this by opening a command prompt (Windows) or terminal (Mac or Linux), and typing the following command: 
@@ -15,7 +16,7 @@ pip install openai
 This will install the latest version of the OpenAI library.
 
 Get an OpenAI API Key ## 
-To use OpenAI, you will need an API key. You can get one by creating an account on the OpenAI website (https://beta.openai.com/signup/). Once you have created an account, you can generate an API key in the "API Keys" section of your dashboard. 
+To use OpenAI, you will need an API key. You can get one by creating an account on the [OpenAI website](https://beta.openai.com/signup). Once you have created an account, you can generate an API key in the "API Keys" section of your dashboard. 
 
 ⇾ Click on your profile name and go to "Show API keys" and click **+ Create new secret key**
 
