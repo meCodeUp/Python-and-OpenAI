@@ -94,5 +94,5 @@ Chatbot: Build a simple chatbot using OpenAI's language model. You can start wit
 Remember, the key to building successful projects is to start small and gradually increase complexity over time. Good luck and have fun!
 
 ## Reference links and code ## 
-⇾ to do
+[start-with-openai.py](https://github.com/AAV-Christina/Python-and-OpenAI/blob/main/start-with-openai.py)
 
