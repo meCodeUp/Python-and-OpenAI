@@ -1,2 +1,2 @@
 # Python-and-OpenAI
-##A step-by-step beginner guide to getting started
+A step-by-step beginner guide to getting started
