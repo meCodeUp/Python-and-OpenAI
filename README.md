@@ -23,8 +23,11 @@ To use OpenAI, you will need an API key. You can get one by creating an account 
 ## Import the OpenAI Library ## 
 To use OpenAI in Python, you need to import the library at the beginning of your code. You can do this by adding the following line to your Python script: 
 
+```
 import openai
-Authenticate your OpenAI API Key 
+```
+
+## Authenticate your OpenAI API Key ## 
 Before you can use the OpenAI library, you need to authenticate your API key. You can do this by adding the following line of code to your script, replacing "YOUR_API_KEY" with your actual API key: 
 
 ```
