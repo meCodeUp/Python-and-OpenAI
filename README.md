@@ -96,3 +96,6 @@ Remember, the key to building successful projects is to start small and graduall
 ## Reference links and code ## 
 [start-with-openai.py](https://github.com/AAV-Christina/Python-and-OpenAI/blob/main/start-with-openai.py)
 
+[OpenAI API Documentation](https://platform.openai.com/docs/introduction)
+
+[Python Documentation](https://www.python.org/doc/)
