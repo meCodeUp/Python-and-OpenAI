@@ -23,7 +23,7 @@ This will install the latest version of the OpenAI library.
 
 To use OpenAI, you will need an API key. You can get one by creating an account on the [OpenAI website](https://beta.openai.com/signup). Once you have created an account, you can generate an API key in the "API Keys" section of your dashboard. 
 
-⇾ Click on your profile name and go to "Show API keys" and click **+ Create new secret key
+⇾ Click on your profile name and go to "Show API keys" and click **+ Create new secret key**
 
 
 ### Import the OpenAI Library
