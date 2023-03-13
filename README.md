@@ -119,3 +119,5 @@ Remember, the key to building successful projects is to start small and graduall
 [OpenAI API Documentation](https://platform.openai.com/docs/introduction)
 
 [Python Documentation](https://www.python.org/doc/)
+
+[GitHub Page to this guide](https://mecodeup.github.io/Python-and-OpenAI/)
