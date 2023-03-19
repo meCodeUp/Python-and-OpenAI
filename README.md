@@ -13,7 +13,7 @@ The first step is to install Python on your computer. You can [download Python f
 
 Next, you will need to install the OpenAI library. You can do this by opening a command prompt (Windows) or terminal (Mac or Linux), and typing the following command: 
 
-```
+```python
 pip install openai 
 ```
 
@@ -30,7 +30,7 @@ To use OpenAI, you will need an API key. You can get one by creating an account 
 
 To use OpenAI in Python, you need to import the library at the beginning of your code. You can do this by adding the following line to your Python script: 
 
-```
+```python
 import openai
 ```
 
@@ -38,7 +38,7 @@ import openai
 
 Before you can use the OpenAI library, you need to authenticate your API key. You can do this by adding the following line of code to your script, replacing "YOUR_API_KEY" with your actual API key: 
 
-```
+```python
 openai.api_key = "YOUR_API_KEY"
 ```
 
@@ -46,7 +46,7 @@ openai.api_key = "YOUR_API_KEY"
 
 You can test if the OpenAI library is working by adding the following code to your script:
 
-```
+```python
 response = openai.Completion.create(engine="davinci", prompt="Hello, world!")
 print(response.choices[0].text)
 ```
