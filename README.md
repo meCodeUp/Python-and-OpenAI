@@ -120,9 +120,3 @@ Remember, the key to building successful projects is to start small and graduall
 
 [Python Documentation](https://www.python.org/doc/)
 
-
-### Support me
-
-If you found this document helpful, [please consider supporting me](https://www.buymeacoffee.com/christinaA) so that I can continue creating more content like this. Your support would help me to dedicate more time and resources to researching and developing high-quality materials that benefit our community. 
-
-**Thank you in advance for your generosity, it is greatly appreciated.**
